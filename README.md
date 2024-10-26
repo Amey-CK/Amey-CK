@@ -70,11 +70,13 @@ Used real-life data to predict house prices in Chennai. Implemented and compared
 ---
 
 ## 📫 Let's Connect
+<a href="mailto:ackadam01@gmail.com" style="display: inline-flex; align-items: center;">
+<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30" height="30" ;"></a>&nbsp&nbsp&nbsp
+<a href="mailto:ackadam01@gmail.com" style="display: inline-flex; align-items: center;">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" ;"></a>&nbsp&nbsp&nbsp
+<a href="mailto:ackadam01@gmail.com" style="display: inline-flex; align-items: center;">
+<img src="https://img.icons8.com/color/48/000000/github.png" width="30" height="30" ;"></a>
 
-- **Email:** [ack@gmail.com](mailto:ack@gmail.com)
-- **LinkedIn:** [linkedin](https://www.linkedin.com/in/amey-k-2b9775202)
-- **GitHub:** [GitHub](https://github.com/Amey-CK)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 Thanks for stopping by! Let's build something great together. 🚀
