@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Amey !
 
 I'm an experienced professional with a solid background in **Business Process Analysis** and **Data Engineering**. Skilled in data analysis, visualization, and ETL processes using **SAP BODS**. As a data science enthusiast, I have a strong foundation in statistics and machine learning algorithms, and I am passionate about transforming complex data into actionable insights.
 
