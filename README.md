@@ -40,11 +40,33 @@ _July 2022 - Feb 2024_
 
 ## 📈 Projects
 
-### Optiver - Trading
-Developed a predictive model for Nasdaq stock price movements using **LightGBM**. Focused on feature engineering and hyperparameter tuning, which improved prediction accuracy.
+### Optiver - Trading Prediction Model
+
+ Project Overview
+In this project, I developed a predictive model to forecast Nasdaq stock price movements using advanced machine learning techniques. The focus was on optimizing prediction accuracy through effective feature engineering and hyperparameter tuning.
+
+ Key Objectives
+- **Price Prediction**: Accurately predict stock price movements on the Nasdaq exchange.
+- **Enhanced Accuracy**: Utilize machine learning to improve the precision of predictions based on market data.
+
+ Methodology
+- **Machine Learning Algorithm**: Implemented **LightGBM** for its efficiency and effectiveness in handling large datasets.
+- **Feature Engineering**: Developed features that capture essential market dynamics and price movement signals.
+
+ Evaluation Metrics
+- **Mean Absolute Error (MAE)**: The primary metric for evaluating the model's performance, ensuring that the predictions closely align with observed values.
 
 ### Store Sales Time Series Forecasting
 Created a machine learning model using five years of historical data to forecast retail store demand over the next 15 days. Focused on exploratory data analysis for feature selection.
+
+ Key Objectives
+-Enhance sales prediction accuracy, addressing challenges like overstocking and stockouts in grocery retail. Improved forecasting can reduce food waste and enhance customer satisfaction.
+
+ Methodology
+- **Machine Learning Algorithm**: Implemented **LightGBM** for its efficiency and effectiveness in handling large datasets.
+
+Evaluation Metrics
+- **Root mean square Error (RMSE)**
 
 ### Chennai House Price Prediction
 Used real-life data to predict house prices in Chennai. Implemented and compared various models, including **Linear Regression**, **KNN**, **Decision Tree**, **Random Forest**, and **XGBoost**.
@@ -53,12 +75,10 @@ Used real-life data to predict house prices in Chennai. Implemented and compared
 
 ## 🎓 Education
 
-- **Bachelor of Mechanical Engineering**  
-  Pune University (CGPA: 9.3/10)  
-  _2018 - 2022_
+- **Bachelor of Mechanical Engineering:**  CGPA:  9.3/10 - Pune University (2018 - 2022)
 
-- **Class XII:** 82.62% - HSC (2016-2018)
-- **Class X:** 96.6% - SSC (2016)
+- **Class XII:**   82.62% - HSC (2016-2018)
+- **Class X:**   96.6% - SSC (2016)
 
 ---
 
@@ -70,12 +90,16 @@ Used real-life data to predict house prices in Chennai. Implemented and compared
 ---
 
 ## 📫 Let's Connect
-<a href="mailto:ackadam01@gmail.com" style="display: inline-flex; align-items: center;">
-<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30" height="30" ;"></a>&nbsp&nbsp&nbsp
-<a href="mailto:ackadam01@gmail.com" style="display: inline-flex; align-items: center;">
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" ;"></a>&nbsp&nbsp&nbsp
-<a href="mailto:ackadam01@gmail.com" style="display: inline-flex; align-items: center;">
-<img src="https://img.icons8.com/color/48/000000/github.png" width="30" height="30" ;"></a>
+<div align="left">
+    <a href="https://www.linkedin.com/in/amey-k-2b9775202/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    </a>
+    <a href="mailto:ackadam01@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+    </a>
+
+
+  </div>
 
 
 
