@@ -60,7 +60,7 @@ In this project, I developed a predictive model to forecast Nasdaq stock price m
 Created a machine learning model using five years of historical data to forecast retail store demand over the next 15 days. Focused on exploratory data analysis for feature selection.
 
  Key Objectives
--Enhance sales prediction accuracy, addressing challenges like overstocking and stockouts in grocery retail. Improved forecasting can reduce food waste and enhance customer satisfaction.
+- Enhance sales prediction accuracy, addressing challenges like overstocking and stockouts in grocery retail. Improved forecasting can reduce food waste and enhance customer satisfaction.
 
  Methodology
 - **Machine Learning Algorithm**: Implemented **LightGBM** for its efficiency and effectiveness in handling large datasets.
