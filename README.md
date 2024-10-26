@@ -72,8 +72,8 @@ Used real-life data to predict house prices in Chennai. Implemented and compared
 ## 📫 Let's Connect
 
 - **Email:** [ack@gmail.com](mailto:ack@gmail.com)
-- **LinkedIn:** [www.linkedin-k-2b9202](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [githy-CK](https://github.com/githy-CK)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/amey-k-2b9775202)
+- **GitHub:** [GitHub](https://github.com/Amey-CK)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
