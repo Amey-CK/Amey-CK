@@ -73,19 +73,19 @@ Developed a machine learning model to predict the likelihood of depression based
 
 Key Objectives
 
-Predict the likelihood of depression among individuals using demographic, lifestyle, and behavioral data.
+- Predict the likelihood of depression among individuals using demographic, lifestyle, and behavioral data.
 Improve model accuracy and generalizability to make reliable predictions, aiding in early detection of mental health issues.
 Address challenges such as missing data and incorrect values, ensuring the model can handle real-world data imperfections.
-Methodology
 
-Data Preprocessing: Cleaned and imputed missing values, handled outliers, and standardized categorical data using techniques like mode imputation and One-Hot Encoding.
-Machine Learning Algorithm: Built and optimized a Decision Tree Classifier, incorporating cost complexity pruning for improved accuracy and model interpretability.
-Cross-validation: Used cross-validation to tune hyperparameters and select the best alpha value for pruning, ensuring the model's robustness.
+Methodology
+- Data Preprocessing: Cleaned and imputed missing values, handled outliers, and standardized categorical data using techniques like mode imputation and One-Hot Encoding.
+- Machine Learning Algorithm: Built and optimized a Decision Tree Classifier, incorporating cost complexity pruning for improved accuracy and model interpretability.
+- Cross-validation: Used cross-validation to tune hyperparameters and select the best alpha value for pruning, ensuring the model's robustness.
 
 Evaluation Metrics
-Confusion Matrix
-Accuracy
-Gini Index
+- Confusion Matrix
+- Accuracy
+- Gini Index
 
 ### Chennai House Price Prediction
 Used real-life data to predict house prices in Chennai. Implemented and compared various models, including **Linear Regression**, **KNN**, **Decision Tree**, **Random Forest**, and **XGBoost**.
