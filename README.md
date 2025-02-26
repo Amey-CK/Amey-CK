@@ -1,15 +1,16 @@
 # 👋 Hello, I'm Amey !
 
-I'm an experienced professional with a solid background in **Business Process Analysis** and **Data Engineering**. Skilled in data analysis, visualization, and ETL processes using **SAP BODS**. As a data science enthusiast, I have a strong foundation in statistics and machine learning algorithms, and I am passionate about transforming complex data into actionable insights.
+I'm an experienced professional with a solid background in **Business Process Analysis** and **Data Engineering**. Skilled in data analysis, visualization, and ETL processes using **SAP BODS**. As a data science enthusiast, I have a strong foundation in Data Engineering, statistics and machine learning algorithms, and I am passionate about transforming complex data into actionable insights.
 
 ---
 
 ## 💼 Professional Experience
 
-### Data Engineer Specialist
+### Data Engineer 
 **Dassault Systèmes, Pune**  
 _Feb 2024 - Present_
 
+**Project - CLS**
 - Developed and deployed ETL processes using SAP BODS from multiple sources to the data warehouse.
 - Transformed complex data with ETL and SQL, generating actionable insights.
 - Optimized ETL workflows for performance and scalability, identifying and resolving bottlenecks.
@@ -20,22 +21,28 @@ _Feb 2024 - Present_
 **Dassault Systèmes, Pune**  
 _July 2022 - Feb 2024_
 
-- Analyzed sales and finance data from various sources, aligning with business requirements.
-- Developed complex SQL queries for data visualization, empowering decision-making.
-- Utilized Python for data manipulation and web scraping.
-- Built and maintained dashboards with **Exalead**, providing stakeholders with actionable insights.
-- Oversaw production environments for internal and external stakeholders, ensuring smooth operations.
-- **Achievement:** Automated a manual data process, from web scraping and cleaning to visualization, reducing manual work by 90%.
+**Project - CVM**
+- Performed data collection from various sources aligning with business requirements to extract meaningful insights.
+- Utilized python for data manipulation and web scraping and performed data analysis using SQL for interactive visualizations and dashboard creation
+- **Achievement:** Automated workflows, including web scraping, data cleaning and visualization, reducing execution time by 90%
+
+**Project - ISR**
+- Developed and optimized Batch jobs related to Business requirement data.
+- Implemented security based on the employee hierarchy.
+- Created interactive data visualizations.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, SQL
-- **Tools:** SAP BODS, Exalead, Automic, VS Code
-- **Tech Stack:** Machine Learning, Data Structures & Algorithms, Data Mining, Data Visualization, Exploratory Data Analysis, Statistics, Probability, Hypothesis Testing
-- **Other Skills:** Familiarity with NLP and Clustering algorithms
-
+- Programming Languages: Python (Data Structures and Algorithms)
+- Databases: Oracle SQL Server
+- ETL Tools- Spark, SAP BODS
+- Reporting Tools- 3DX Widgets, Power BI
+- Scheduling Tools- Automic
+- Machine Learning Algorithms: Linear and Logistic regression, LightGBM, 
+XGBoost, KNN, K-Means clustering, decision tree, Dimensionality reduction
+and familiarity with NLP, Deep Learning and Neural networks
 ---
 
 ## 📈 Projects
