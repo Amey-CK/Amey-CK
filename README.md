@@ -10,28 +10,10 @@ I'm an experienced professional with a solid background in **Business Process An
 **Dassault Systèmes, Pune**  
 _Feb 2024 - Present_
 
-**Project - CLS**
-- Developed and deployed ETL processes using SAP BODS from multiple sources to the data warehouse.
-- Transformed complex data with ETL and SQL, generating actionable insights.
-- Optimized ETL workflows for performance and scalability, identifying and resolving bottlenecks.
-- Documented ETL processes, including data mappings, transformation rules, and scheduling details.
-- **Achievement:** Created a sales pipeline monitoring dashboard to analyze historical data for internal and external sales personnel.
-
 ### Business Process Analyst
 **Dassault Systèmes, Pune**  
 _July 2022 - Feb 2024_
 
-**Project - CVM**
-- Performed data collection from various sources aligning with business requirements to extract meaningful insights.
-- Utilized python for data manipulation and web scraping and performed data analysis using SQL for interactive visualizations and dashboard creation
-- **Achievement:** Automated workflows, including web scraping, data cleaning and visualization, reducing execution time by 90%
-
-**Project - ISR**
-- Developed and optimized Batch jobs related to Business requirement data.
-- Implemented security based on the employee hierarchy.
-- Created interactive data visualizations.
-
----
 
 ## 🛠️ Skills
 
@@ -99,30 +81,13 @@ Used real-life data to predict house prices in Chennai. Implemented and compared
 
 ---
 
-## 🎓 Education
-
-- **Bachelor of Mechanical Engineering:**  CGPA:  9.3/10 - Pune University (2018 - 2022)
-
-- **Class XII:**   82.62% - HSC (2016-2018)
-- **Class X:**   96.6% - SSC (2016)
-
----
-
-## 🎖️ Certifications
-
-- **Master Data Science Program** - GUVI
-- **Advanced SQL** - HackerRank
-
----
 
 ## 📫 Let's Connect
 <div align="left">
     <a href="https://www.linkedin.com/in/amey-k-2b9775202/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
     </a>
-    <a href="mailto:ackadam01@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-    </a>
+    
 
 
   </div>
