@@ -29,6 +29,10 @@ and familiarity with NLP, Deep Learning and Neural networks
 
 ## 📈 Projects
 
+### Azure-Sales-ETL
+
+An end-to-end data pipeline on Microsoft Azure using the AdventureWorks Sales dataset, built on the Medallion Architecture (Bronze, Silver, Gold). It integrates Azure Data Factory, Data Lake, Databricks, Synapse Analytics, and BI tools to ingest, transform, and visualize sales data. Refer to the repository for more information.
+
 ### Optiver - Trading Prediction Model
 
  Project Overview
