@@ -1,31 +1,4 @@
-# 👋 Hello, I'm Amey !
 
-I'm an experienced professional with a solid background in **Business Process Analysis** and **Data Engineering**. Skilled in data analysis, visualization, and ETL processes using **SAP BODS**. As a data science enthusiast, I have a strong foundation in Data Engineering, statistics and machine learning algorithms, and I am passionate about transforming complex data into actionable insights.
-
----
-
-## 💼 Professional Experience
-
-### Data Engineer 
-**Dassault Systèmes, Pune**  
-_Feb 2024 - Present_
-
-### Business Process Analyst
-**Dassault Systèmes, Pune**  
-_July 2022 - Feb 2024_
-
-
-## 🛠️ Skills
-
-- Programming Languages: Python (Data Structures and Algorithms)
-- Databases: Oracle SQL Server
-- ETL Tools- Spark, SAP BODS
-- Reporting Tools- 3DX Widgets, Power BI
-- Scheduling Tools- Automic
-- Machine Learning Algorithms: Linear and Logistic regression, LightGBM, 
-XGBoost, KNN, K-Means clustering, decision tree, Dimensionality reduction
-and familiarity with NLP, Deep Learning and Neural networks
----
 
 ## 📈 Projects
 
@@ -86,16 +59,4 @@ Used real-life data to predict house prices in Chennai. Implemented and compared
 ---
 
 
-## 📫 Let's Connect
-<div align="left">
-    <a href="https://www.linkedin.com/in/amey-k-2b9775202/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-    </a>
-    
 
-
-  </div>
-
-
-
-Thanks for stopping by! Let's build something great together. 🚀
